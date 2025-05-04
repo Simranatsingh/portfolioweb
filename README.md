@@ -27,8 +27,8 @@ This project is built with the following technologies:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Simranatsingh/portfolio.git
-cd portfolio
+git clone https://github.com/Simranatsingh/portfolioweb.git
+cd portfolioweb
 ```
 
 2. Install dependencies:
