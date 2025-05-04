@@ -16,6 +16,23 @@ This project is built with the following technologies:
 - **React Query** - Data fetching and state management
 - **Zod** - TypeScript-first schema validation
 
+## Projects
+
+Here are some of my notable projects:
+
+1. **Secure Data Transfer in HCX Systems**
+   - Live Demo: [https://secure-data-transfer-in-hcx-systems.vercel.app/](https://secure-data-transfer-in-hcx-systems.vercel.app/)
+   - GitHub: [https://github.com/Simranatsingh/JWE-encryption-for-Secure-data-transfer-in-hcx-systems-using-blockchain](https://github.com/Simranatsingh/JWE-encryption-for-Secure-data-transfer-in-hcx-systems-using-blockchain)
+
+2. **Portfolio Website**
+   - GitHub: [https://github.com/Simranatsingh/portfolioweb](https://github.com/Simranatsingh/portfolioweb)
+
+3. **Remedy Chatbot**
+   - GitHub: [https://github.com/Simranatsingh/remedy-chatbot](https://github.com/Simranatsingh/remedy-chatbot)
+
+4. **Course Selling Server**
+   - GitHub: [https://github.com/Simranatsingh/course-selling-server](https://github.com/Simranatsingh/course-selling-server)
+
 ## Getting Started
 
 ### Prerequisites
